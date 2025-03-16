@@ -1,8 +1,8 @@
 #!/bin/bash
 
 RESOURCE_GROUP_NAME=terraform-state-rg
-STAGE_SA_ACCOUNT=tfstagebackend2024piyush
-DEV_SA_ACCOUNT=tfdevbackend2024piyush
+STAGE_SA_ACCOUNT=tfstagebackend2025mithu
+DEV_SA_ACCOUNT=tfdevbackend2025mithu
 CONTAINER_NAME=tfstate
 
 
